@@ -9,12 +9,12 @@
   "scripts": {
     "changelist": "github-changes -o apiaryio -r dredd --only-pulls --use-commit-body --file CHANGELOG-Generated.md -a",
     "pretest": "coffeelint ./src",
-    "test": "bash -c 'scripts/test'",
-    "prepublish": "bash -c 'scripts/build'"
+    "test": "scripts/test",
+    "prepare": "scripts/build"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Smartlogic-Semaphore-Limited/dredd.git#v1.0.4-sl-mod"
+    "url": "https://github.com/Smartlogic-Semaphore-Limited/dredd.git"
   },
   "dependencies": {
     "advisable": "~0.2.0",
@@ -24,7 +24,7 @@
     "clone": "^1.0.0",
     "coffee-script": "^1.9.1",
     "file": "~0.2.2",
-    "gavel": "../../dependency/gavel/gavel-0.5.2.tgz",
+    "gavel": "0.5.2-master-32",
     "glob": "^6.0.1",
     "html": "~0.0.7",
     "htmlencode": "~0.0.4",
