@@ -24,7 +24,7 @@
     "clone": "^1.0.0",
     "coffee-script": "^1.9.1",
     "file": "~0.2.2",
-    "gavel": "0.5.2-master-32",
+    "gavel": "0.5.2-master-33",
     "glob": "^6.0.1",
     "html": "~0.0.7",
     "htmlencode": "~0.0.4",
