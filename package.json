@@ -1,6 +1,6 @@
 {
   "name": "dredd",
-  "version": "0.0.0-semantically-released",
+  "version": "8.0.4",
   "description": "HTTP API Testing Framework",
   "main": "lib/Dredd.js",
   "bin": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apiaryio/dredd"
+    "url": "https://github.com/Smartlogic-Semaphore-Limited/dredd.git"
   },
   "files": [
     "bin",
@@ -41,7 +41,7 @@
     "clone": "2.1.2",
     "cross-spawn": "6.0.5",
     "dredd-transactions": "6.5.2",
-    "gavel": "2.2.1",
+    "gavel": "0.5.2-master-33",
     "glob": "7.1.3",
     "html": "1.0.0",
     "htmlencode": "0.0.4",
