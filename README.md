@@ -1,5 +1,7 @@
 # Dredd — HTTP API Testing Framework
 
+## This fork is no longer maintained
+
 [![npm version](https://badge.fury.io/js/dredd.svg)](https://www.npmjs.com/package/dredd)
 [![Build Status](https://travis-ci.org/apiaryio/dredd.svg?branch=master)](https://travis-ci.org/apiaryio/dredd)
 [![Build Status](https://ci.appveyor.com/api/projects/status/n3ixfxh72qushyr4/branch/master?svg=true)](https://ci.appveyor.com/project/Apiary/dredd/branch/master)
